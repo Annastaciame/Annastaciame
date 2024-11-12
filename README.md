@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Annastaciame
-- 👀 I’m interested in HTML|CSS |JavaScript...
-- 🌱 I’m currently learning Html...
-- 💞️ 
+- 👀 I’m interested in Front end web development 
+- 🌱 html| CSS| JavaScript| Python|PHP
 
 
